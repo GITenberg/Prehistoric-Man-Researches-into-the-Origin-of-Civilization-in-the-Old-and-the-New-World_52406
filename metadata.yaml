@@ -1,0 +1,35 @@
+_repo: Prehistoric-Man-Researches-into-the-Origin-of-Civilization-in-the-Old-and-the-New-World_52406
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilson, Daniel, Sir
+    alias: Wilson, Daniel
+    birthdate: 1816
+    deathdate: 1892
+    gutenberg_agent_id: '46329'
+    url: http://www.gutenberg.org/2009/agents/46329
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_Wilson_%28academic%29
+description: ''
+gutenberg_issued: '2016-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52406'
+  lccn: 08026607
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prehistoric peoples'
+- !lcc 'GN'
+- !lcsh 'Ethnology -- America'
+- !lcsh 'Civilization -- History'
+- GITenberg
+tableOfContents: Introduction -- The primeval transition -- The quarry -- Bone and
+  shell workers -- Fire -- The canoe -- Tools -- The metals -- Alloys -- The mound-builders
+  -- Sepulchral mounds -- Sacrificial mounds -- Symbolic mounds -- Native American
+  civilisation -- Art chroniclings.
+title: 'Prehistoric Man
+
+  Researches into the Origin of Civilization in the Old and the New World'
+url: http://www.gutenberg.org/ebooks/52406
